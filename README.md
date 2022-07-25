@@ -4,7 +4,7 @@
 
 ![filmheadshot](https://user-images.githubusercontent.com/74481179/180701876-444c1329-fbdc-4822-b306-0d35474bed9d.jpg)
 
-## _**Skills**_
+## **Skills**
 
 1. Architectural & Design Software
     1. Rhino3D
